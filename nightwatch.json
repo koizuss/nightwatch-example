@@ -3,7 +3,7 @@
   "output_folder": "reports",
   "selenium": {
     "start_process": true,
-    "server_path": "/Users/takeshi_koizumi/work/selenium/selenium-server-standalone-2.41.0.jar"
+    "server_path": "./selenium/selenium-server-standalone-2.41.0.jar"
   },
   "test_settings": {
     "default": {
