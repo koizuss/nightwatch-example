@@ -1,0 +1,13 @@
+{
+  "name": "nightwatch-example",
+  "version": "0.0.0",
+  "description": "",
+  "devDependencies": {
+    "nightwatch": "^0.4.13"
+  },
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "koizuss",
+  "license": "ISC"
+}
